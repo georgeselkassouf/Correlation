@@ -1,5 +1,16 @@
 # Movie Data Correlation
 
+## Libraries
+SciKit-Learn
+
+Pandas
+
+Seaborn
+
+Matplotlib
+
+Numpy
+
 ## Original Dataset from Kaggle
 
 https://www.kaggle.com/datasets/danielgrijalvas/movies
