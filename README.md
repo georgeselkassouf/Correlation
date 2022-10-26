@@ -1,8 +1,6 @@
 # Movie Data Correlation
 
 ## Libraries
-SciKit-Learn
-
 Pandas
 
 Seaborn
